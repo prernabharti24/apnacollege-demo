@@ -1,3 +1,7 @@
 # apnacollege-demo
 this is my first git repository
 author- Prerna bharti
+
+#teacher 
+Shradha Khapra
+
